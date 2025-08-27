@@ -10,7 +10,6 @@ clean-text==0.6.0
 cleantext==1.1.4
 click==8.1.7
 dataclasses-json==0.6.4
-datrie==0.8.2
 distro==1.9.0
 emoji==1.7.0
 frozenlist==1.4.1
