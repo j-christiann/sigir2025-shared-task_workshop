@@ -1,0 +1,3 @@
+<user_configuration name="My_Keyword_User_Assignment">
+    <query_generator class="simiir.user.query_generators.my_simulators.KeywordReformulator" />
+    </user_configuration>
