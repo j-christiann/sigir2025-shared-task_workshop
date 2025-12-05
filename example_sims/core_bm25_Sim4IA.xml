@@ -74,6 +74,9 @@ Date:   2015-09-09
 	<users>
 		<user configurationFile="../example_sims/users/core_predetermined_query_user_Sim4IA_TaskA2.xml" />
 
+		<user configurationFile="../example_sims/users/my_simple_user.xml" />
+		<user configurationFile="../example_sims/users/my_keyword_user.xml" />
+		
 		<!--
         <user configurationFile="../example_sims/users/CORE_tri_term_query_user_DIS22.xml" />
 		<user configurationFile="../example_sims/users/CORE_predetermined_query_user_DIS22.xml" />
@@ -84,8 +87,11 @@ Date:   2015-09-09
 		-->
 
 		<!--
-		Add your newly created user configurations below. By adding:
-		<user configurationFile="path/to/your/user_configuration.xml" />
+		<user configurationFile="../example_sims/users/my_simple_user.xml" />
+		-->
+
+		<!--
+		<user configurationFile="../example_sims/users/my_keyword_user.xml" />
 		-->
 
 	</users>
