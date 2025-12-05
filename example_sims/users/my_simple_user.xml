@@ -1,0 +1,3 @@
+<user_configuration name="My_Simple_User_Assignment">
+    <query_generator class="simiir.user.query_generators.my_simulators.SimpleUser" />
+    </user_configuration>
